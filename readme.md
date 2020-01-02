@@ -31,7 +31,7 @@ function onYouTubeIframeAPIReady() {
 ```js
 ytvideo.addVideo({
     element: 'player', // html element
-    name: 'player1',  // videoName
+    name: 'player1',  // set videoName
     videoId: 'SEqfIKQfrg0', // Youtube video id
     width: '', // default is '600'
     height: '', // default is '900'
