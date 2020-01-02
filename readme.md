@@ -47,3 +47,8 @@ ytvideo.playVideo(videoName)
 ```js
 ytvideo.stopVideo(videoName)
 ```
+
+### pauseVideo
+```js
+ytvideo.pauseVideo(videoName)
+```
