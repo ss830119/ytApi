@@ -1,6 +1,6 @@
 # YTApi
 Demo: 
-<a href="https://ss830119.github.io/example/ytapi.html?v=5566444" target="_blank">https://ss830119.github.io/example/ytapi.html?v=5566444</a>
+<a href="https://ss830119.github.io/example/ytapi.html" target="_blank">https://ss830119.github.io/example/ytapi.html</a>
 
 ## Getting Started
 ```html
