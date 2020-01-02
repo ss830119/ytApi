@@ -1,6 +1,6 @@
 # YTApi
 Demo: 
-<a href="https://codepen.io/ss830119/pen/rNaGWZd?editors=0010" target="_blank">https://codepen.io/ss830119/pen/rNaGWZd?editors=0010</a>
+<a href="https://codepen.io/ss830119/pen/QWwqoKq?editors=1010" target="_blank">https://codepen.io/ss830119/pen/QWwqoKq?editors=1010</a>
 
 ## Getting Started
 ```html
@@ -22,7 +22,7 @@ ytvideo.addVideo({
 
 // onYouTubeIframeAPIReady is Youtube API
 function onYouTubeIframeAPIReady() {
-    ytvideo.ytvideo.ready() // init video
+    ytvideo.ready() // init video
 }
 ```
 
