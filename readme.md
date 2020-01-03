@@ -1,10 +1,10 @@
 # YTApi
 Demo: 
-<a href="https://ss830119.github.io/example/ytapi.html" target="_blank">https://ss830119.github.io/example/ytapi.html</a>
+<a href="https://zxccxz0119.github.io/example/ytapi.html" target="_blank">https://zxccxz0119.github.io/example/ytapi.html</a>
 
 ## Getting Started
 ```html
-<script src="https://ss830119.github.io/assets/ytapi.js"></script>
+<script src="https://zxccxz0119.github.io/assets/ytapi.js"></script>
 ```
 
 ## Usage
